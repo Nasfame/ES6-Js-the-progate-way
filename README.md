@@ -22,4 +22,4 @@ JavaScript VII  Estimated 1h
 In JavaScript Ⅶ, you will learn about callback functions.
 
 
-# Completed the Javascript course of progate.com on 22-3-20
+# Completed  @ wwww.progate.com
