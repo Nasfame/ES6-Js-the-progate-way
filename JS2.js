@@ -19,6 +19,7 @@ console.log(`----------------------------`);
 console.log("Menu Recommendations");
 
 // Use a for loop to print the contents of the menu array
-for(i=0;i<cafe.menus.length;i++){
+for(let i=0;i<cafe.menus.length;i++){
   console.log(cafe.menus[i]);
 }
+
