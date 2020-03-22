@@ -1,7 +1,5 @@
 # ES6-Js-the progate-way
 
-# Completed the Javascript course of progate.com on 22-3-20
-
 JavaScript I  Estimated 2h
 ES6 is the future of JavaScript. It's the new standard for writing JavaScript that has become popular. In this first lesson, we'll cover the syntax and grammar including variables,..
 
@@ -22,3 +20,6 @@ In JavaScript Study VI, we'll cover methods for handling arrays that are essenti
 
 JavaScript VII  Estimated 1h
 In JavaScript Ⅶ, you will learn about callback functions.
+
+
+# Completed the Javascript course of progate.com on 22-3-20
