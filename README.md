@@ -1,8 +1,6 @@
 # ES6-Js-the progate-way
- Js is the most used programming lang of 2020.
 
-
-
+# Completed the Javascript course of progate.com on 22-3-20
 
 JavaScript I  Estimated 2h
 ES6 is the future of JavaScript. It's the new standard for writing JavaScript that has become popular. In this first lesson, we'll cover the syntax and grammar including variables,..
